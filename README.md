@@ -1,6 +1,6 @@
 # Reporte_UPS
 <hr>
-    <img src="C:\Users\pc\Downloads\_588d4238-79fa-424f-9fb3-201d80b8bd3c">
+    <img src="C:\Users\pc\Downloads\_588d4238-79fa-424f-9fb3-201d80b8bd3c" alt="Bandera Colombia" width="150px">
 <hr>
 
 # Descripcion General
