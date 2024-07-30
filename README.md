@@ -1,6 +1,6 @@
 # Reporte_UPS
 <hr>
-    <img src="https://welspec.com/products/ups-online-1kva-titan-powest" alt="UPS" width="150px">
+    <img src="https://welspec.com/products/ups-online-1kva-titan-powest" alt="UPS">
 <hr>
 
 # Descripcion General
