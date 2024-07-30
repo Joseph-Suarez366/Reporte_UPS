@@ -1,6 +1,6 @@
 # Reporte_UPS
 <hr>
-    <img src="https://www.bing.com/images/create/ups-powest-de-3kva-sin-mostrar-la-marca/1-66a84a5422f34109a73668ec24630e00?id=asMOfL3OPOxe7mmDud1ySg%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thid=OIG1.4Ke8riXKazHGZHWH7b73&frame=sydedg&form=SYDBIC" alt="UPS" width="150px">
+    <img src="https://welspec.com/products/ups-online-1kva-titan-powest" alt="UPS" width="150px">
 <hr>
 
 # Descripcion General
