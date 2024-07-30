@@ -15,5 +15,6 @@ Esta base de datos tiene la siguientes tablas:
 2. Clientes
 3. Tipo_Mtto
 4. Garantia
+5. Repuestos
 
 
