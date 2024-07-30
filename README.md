@@ -16,5 +16,3 @@ Esta base de datos tiene la siguientes tablas:
 3. Tipo_Mtto
 
 
-
-
