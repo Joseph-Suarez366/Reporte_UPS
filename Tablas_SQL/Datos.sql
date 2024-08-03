@@ -1,8 +1,7 @@
 -- --------------------------------------------------------
--- Host:                         190.90.160.172
--- Versión del servidor:         10.6.18-MariaDB-cll-lve-log - MariaDB Server
--- SO del servidor:              Linux
--- HeidiSQL Versión:             10.2.0.5599
+-- Joseph Suarez
+-- Proyecto Base de datos Reporte ups
+-- 02/08/2024
 -- --------------------------------------------------------
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
