@@ -1,7 +1,8 @@
 # Reporte_UPS
 
-![UPS](/UPS.jpeg)
+<!--![UPS](/UPS.jpeg)-->
 
+<img src = "UPS.jepg">
 
 # Descripcion General
 
