@@ -1,5 +1,8 @@
 # Reporte_UPS
-![UPS](/UPS.jpeg)
+<hr>
+    <img src= "![UPS](/UPS.jpeg)" >
+    <img src = "UPS.jpeg" width="150" height="150">
+<hr>
 
 
 # Descripcion General
