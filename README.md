@@ -1,6 +1,6 @@
 # Reporte_UPS
 <hr>
-    <img src="file:///C:/Users/pc/Downloads/_588d4238-79fa-424f-9fb3-201d80b8bd3c.jpeg" alt="UPS">
+    ![UPS](/UPS.jpeg)
 <hr>
 
 # Descripcion General
