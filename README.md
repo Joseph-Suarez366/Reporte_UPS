@@ -14,7 +14,7 @@ Esta base de datos tiene la siguientes tablas:
 1. Reporte, donde se guardara toda la informacion de los mantenimeintos
 2. Clientes
 3. Tipo_Mtto
-4. Garantia
+
 
 
 
