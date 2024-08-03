@@ -1,6 +1,6 @@
 # Reporte_UPS
 
-<img src = "![UPS](/UPS.jpeg)" width="300" height="300">
+<img src = "![UPS](/UPS.jpeg)">
 
 
 
