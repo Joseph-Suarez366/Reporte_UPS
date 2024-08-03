@@ -2,7 +2,7 @@
 
 <!--![UPS](/UPS.jpeg)-->
 
-<img src = "UPS.jepg">
+<img src = "UPS.jpeg">
 
 # Descripcion General
 
