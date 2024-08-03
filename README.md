@@ -1,7 +1,6 @@
 # Reporte_UPS
-<hr>
-    ![UPS](/UPS.jpeg)
-<hr>
+![UPS](/UPS.jpeg)
+
 
 # Descripcion General
 
